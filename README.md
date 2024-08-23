@@ -1,3 +1,3 @@
-# Sara's Key to Smart Decisions SQL portfolio
+# Sara's Break into Tech SQL portfolio
 
 ## Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions.
